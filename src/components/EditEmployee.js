@@ -93,7 +93,7 @@ function EditEmployee(props) {
             className="bg-blue-900 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full"
             form="editmodal"
           >
-            Update
+            Update Employee
           </button>
         </Modal.Footer>
       </Modal>
